@@ -1,0 +1,68 @@
+# رواق اليكينة — Generative Engine Optimization Map
+
+> A تنمية الذات والإرشاد business.
+
+---
+
+## Pages
+
+### Home
+https://-f775e2c3.zappy5.app
+
+### About
+https://-f775e2c3.zappy5.app/about
+
+### Services
+https://-f775e2c3.zappy5.app/services
+
+### Contact
+https://-f775e2c3.zappy5.app/contact
+
+### Products
+https://-f775e2c3.zappy5.app/products
+Our Products - رواق اليكينة
+
+### Product Detail
+https://-f775e2c3.zappy5.app/product/:slug
+Product Details - رواق اليكينة
+
+### Category
+https://-f775e2c3.zappy5.app/category/:slug
+Products - رواق اليكينة
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f775e2c3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f775e2c3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f775e2c3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About رواق اليكينة
+رواق اليكينة is a business in the تنمية الذات والإرشاد industry.
+
+## Target Audience
+- Mindfulness Seekers
+- Arabic-Speaking Life Coaches
+- Self-Improvement Newbies
+- Expat Personal Growth Seekers
+
+## Industry
+تنمية الذات والإرشاد
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-f775e2c3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-f775e2c3.zappy5.app/robots.txt
